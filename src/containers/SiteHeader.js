@@ -52,6 +52,9 @@ class SiteHeader extends Component {
                   <Menu.Item as={NavLink} to='/explore'>
                     Explore
                   </Menu.Item>
+                  <Menu.Item as={NavLink} to='/calc'>
+                    Calculator
+                  </Menu.Item>
                   <Menu.Item as={NavLink} to='/about'>
                     About
                   </Menu.Item>
